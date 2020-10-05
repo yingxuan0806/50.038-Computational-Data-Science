@@ -7,7 +7,7 @@
 ## Exercise 2
 
 - `mapper_ex2.py`
-  - change `store` to `item`
+  - from `mapper.py`, change `store` to `item`
 - `reducer.py` remains unchanged
 
 ![](/Users/yingxuan/Library/Application Support/typora-user-images/Screenshot 2020-09-16 at 9.30.19 AM.png)
@@ -60,4 +60,10 @@
 ![Screenshot 2020-09-16 at 10.17.59 AM](/Users/yingxuan/Library/Application Support/typora-user-images/Screenshot 2020-09-16 at 10.17.59 AM.png)
 
 ## Exercise 5
+
+key: file
+
+value: number of hits
+
+
 
