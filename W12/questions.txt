@@ -1,0 +1,3 @@
+Task 1. Create a CNN-LSTM model. LSTM output size can be 128. Check code 3.py
+Task 2. To do task 1 correctly, did you have to remove or add any additional layer? If yes,
+then indicate the layer and give the reason for it.
